@@ -3,7 +3,7 @@
 Collection of data science projects for fun and self-learning.
 
 ### **Primary Tools:**  
-_pandas, numpy, matplotlib, seaborn, sklearn, statsmodels, fbprophet, bokeh, nltk, and pygsheets._
+_pandas, numpy, matplotlib, seaborn, sklearn and nltk._
 
 ## **Contents**
 
