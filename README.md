@@ -3,7 +3,7 @@
 Collection of data science and analystics projects for fun and self-learning.
 
 ### **Primary Tools:**  
-_pandas, numpy, matplotlib, seaborn, sklearn, SQL and nltk._
+_pandas, numpy, matplotlib, seaborn, sklearn, SQL, PowerBI and nltk._
 
 ## **Contents**
 
