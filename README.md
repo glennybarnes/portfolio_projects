@@ -12,7 +12,7 @@ _pandas, numpy, matplotlib, seaborn, sklearn, SQL, PowerBI and nltk._
 
 
 ### SQL Data Exploration
-- [**COVID-19 Data Analysis Using SQL**](https://github.com/glennybarnes/personal_projects/blob/main/COVID%20Portfolio%20Project%20actual%20scripts.sql): This project explores global COVID-19 trends using SQL, analyzing infection and death rates, vaccination progress, and country-wise impact. It includes data cleaning, aggregation, and advanced SQL techniques like CTEs, window functions, and views for efficient reporting and visualization
+- [**COVID-19 Data Analysis using SQL**](https://github.com/glennybarnes/personal_projects/blob/main/COVID%20Portfolio%20Project%20actual%20scripts.sql): This project explores global COVID-19 trends using SQL, analyzing infection and death rates, vaccination progress, and country-wise impact. It includes data cleaning, aggregation, and advanced SQL techniques like CTEs, window functions, and views for efficient reporting and visualization.
 
 ### Visualizations
 
