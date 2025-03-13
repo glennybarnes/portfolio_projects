@@ -1,4 +1,4 @@
-# Personal Projects
+# Projects
 
 Collection of data science and analystics projects for fun and self-learning.
 
