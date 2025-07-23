@@ -8,6 +8,8 @@ _pandas, numpy, matplotlib, seaborn, sklearn, SQL, PowerBI and nltk._
 ## **Contents**
 
 ### Statistical Analysis
+- [**Superstore Discount-Profit Analysis Report**]() : This analysis investigates the impact of discounts on profitability at a U.S. Superstore chain. The dataset includes transactions categorized by department, sub-category, region, and discount levels. The objective is to uncover patterns in sales and discounting that influence profits.
+- 
 - [**Student Mental Health Assessment**](https://github.com/glennybarnes/personal_projects/blob/main/Student%20Mental%20Health%20Assessments.ipynb): Analyzed the impact of lifestyle and academic factors on student mental health using a Kaggle dataset. Implemented data preprocessing, exploratory analysis, and predictive modeling with logistic regression to identify key influences.
 
 
