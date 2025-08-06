@@ -36,7 +36,7 @@ Welcome to my curated collection of data science and analytics projects. These w
 
 ### Data Visualization
 
-- [**Global Literacy & Education Trends (Power BI)**](https://app.powerbi.com/links/4X6uPSLwX4?ctid=5c98fb47-d3b9-4649-9d94-f88cbdd9729c&pbi_source=linkShare)  
+- [**Global Literacy & Education Trends (Power BI)**](https://github.com/glennybarnes/global-literacy-education-powerbi)  
   Designed a Power BI dashboard to visualize literacy and education statistics worldwide. Used DAX for dynamic measures and interactive maps to highlight GDP-education correlations, gender gaps, and policy recommendations.
 
 ---
