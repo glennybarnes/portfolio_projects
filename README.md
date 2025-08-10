@@ -36,7 +36,13 @@ Welcome to my curated collection of data science and analytics projects. These w
 
 ### Data Visualization
 
-- [**Global Literacy & Education Trends (Power BI)**](https://github.com/glennybarnes/global-literacy-education-powerbi)  
+-  [**Population Health Trends Dashboard – Independent Project**](https://github.com/glennybarnes/population-health-trends)
+ - Designed and deployed an **interactive Power BI dashboard** analyzing 2015–2024 simulated health data (CIHI/Statistics Canada style) to track **mortality, hospitalizations, and     readmissions** across Canadian provinces.  
+ - Built **Python-based statistical workflows** for direct **age-standardization (ASMR)**, trend analysis, and correlation insights between outcomes and determinants (e.g., primary care access, spending, lifestyle factors).  
+ - Delivered a visual, drill-down ready tool for **regional performance comparison and policy planning**.
+
+  
+-  [**Global Literacy & Education Trends (Power BI)**](https://github.com/glennybarnes/global-literacy-education-powerbi)  
   Designed a Power BI dashboard to visualize literacy and education statistics worldwide. Used DAX for dynamic measures and interactive maps to highlight GDP-education correlations, gender gaps, and policy recommendations.
 
 ---
